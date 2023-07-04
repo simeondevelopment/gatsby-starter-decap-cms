@@ -18,3 +18,5 @@ if(let i = 0; i < 10; i++) {
    console.log(i)
 }
 ```
+
+![simeon korunoski](https://i.ytimg.com/vi/CA1ikyfks9U/maxresdefault.jpg "Simeon Korunoski")
